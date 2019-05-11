@@ -1,6 +1,6 @@
 package factoryMethod;
 
-public class Stawberry implements Icecream {
+public class Strawberry implements Icecream {
 
 	@Override
 	public void flavor() {
