@@ -13,7 +13,7 @@ public class MainIcecreamFactory {
 		
 		System.out.println("_______________________________________________");
 		
-		Icecream icecream3 = FactoryIcecream.createIcecream("Stawberry");
+		Icecream icecream3 = FactoryIcecream.createIcecream("Strawberry");
 		icecream3.flavor();
 		
 		System.out.println("_______________________________________________");
